@@ -10,7 +10,7 @@ public class Main {
 
     void maryTest()
     {
-
+        String a = "hello Mary";
     }
     public static void main(String[] args) {
 
