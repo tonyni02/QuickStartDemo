@@ -7,16 +7,11 @@ public class Main {
         String testString = abc;
         return;
     }
-
-    void maryTest()
-    {
-
-    }
     public static void main(String[] args) {
 
 	// write your code here
         String testString;
-        testString = "Mary";
+        testString = "Tony";
 
         new Main().test1("Hello");
         System.out.println("Hello World!");
