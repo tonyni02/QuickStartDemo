@@ -11,7 +11,7 @@ public class Main {
 
 	// write your code here
         String testString;
-        testString = "aaa";
+        testString = "Mary";
 
         new Main().test1("Hello");
         System.out.println("Hello World!");
