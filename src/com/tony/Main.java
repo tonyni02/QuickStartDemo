@@ -12,6 +12,12 @@ public class Main {
     {
         String a = "hello Mary";
     }
+
+    public testTony()
+    {
+        String b = "Hello Tony";
+    }
+
     public static void main(String[] args) {
 
 	// write your code here
