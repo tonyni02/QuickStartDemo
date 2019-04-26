@@ -22,7 +22,7 @@ public class Main {
 
 	// write your code here
         String testString;
-        testString = "Mary, and Tony";
+        testString = "Mary, and Tony, and remote";
 
         new Main().test1("Hello");
         System.out.println("Hello World!");
