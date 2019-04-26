@@ -7,6 +7,11 @@ public class Main {
         String testString = abc;
         return;
     }
+
+    void maryTest()
+    {
+
+    }
     public static void main(String[] args) {
 
 	// write your code here
